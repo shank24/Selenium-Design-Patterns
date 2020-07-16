@@ -1,0 +1,7 @@
+com/practice/seleniumdesign/srp/ResultStat.class
+com/practice/seleniumdesign/srp/AbstractComponent.class
+com/practice/seleniumdesign/srp/SearchWidget.class
+com/practice/seleniumdesign/srp/GoogleResultPage.class
+com/practice/seleniumdesign/srp/NavigationBar.class
+com/practice/seleniumdesign/srp/GoogleMainPage.class
+com/practice/seleniumdesign/srp/SearchSuggestion.class
